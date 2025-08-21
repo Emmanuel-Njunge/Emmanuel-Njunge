@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Emmanuel-Njunge/Emmanuel-Njunge/main/Github%20Header.png" alt="Emmanuel Njunge - Software Developer">
+<img src="https://raw.githubusercontent.com/Emmanuel-Njunge/Emmanuel-Njunge/main/Github%20Header.png" alt="Emmanuel Njunge - Software Developer" width="100%" style="max-width: 100%; height: auto;">
 
 ## Hi there 👋
 
